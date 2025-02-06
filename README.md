@@ -1,1 +1,1 @@
-# SocialMediaFriendsApp
+# SocialMediaFriendsApp by Jurijs
