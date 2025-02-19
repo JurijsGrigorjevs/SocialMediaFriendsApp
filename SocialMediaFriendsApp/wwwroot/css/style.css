@@ -998,7 +998,7 @@ input:checked + .switch-button:before {
     margin: 0;
     pointer-events: none;
     -webkit-box-flex: inherit;
-    -ms-flex-positive: inherit;
+    -msflex-positive: inherit;
     flex-grow: inherit;
     -ms-flex-negative: 0;
     flex-shrink: 0;
